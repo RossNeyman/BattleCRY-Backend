@@ -1,6 +1,6 @@
 # Team BattleC-R-Y-S (Backend)
 
-Team: Carlos, Ross, Shabir, Yousuf
+Team: Ross, Yousuf
 
 This repository contains the backend for Team BattleC-R-Y-S.
 
